@@ -1,0 +1,16 @@
+--2013-08-27 21:31:45--  https://github.com/dorimanx/Dorimanx-SG2-I9100-Kernel/commit/21445ff72073a2e49e82ecad25d833c0c6a22435.patch
+Resolving github.com (github.com)... 192.30.252.129
+Connecting to github.com (github.com)|192.30.252.129|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2013-08-27 21:46:47--  (try: 2)  https://github.com/dorimanx/Dorimanx-SG2-I9100-Kernel/commit/21445ff72073a2e49e82ecad25d833c0c6a22435.patch
+Connecting to github.com (github.com)|192.30.252.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3869 (3.8K) [text/plain]
+Saving to: ‘21445ff72073a2e49e82ecad25d833c0c6a22435.patch.1’
+
+     0K ...                                                   100%  568M=0s
+
+2013-08-27 21:46:47 (568 MB/s) - ‘21445ff72073a2e49e82ecad25d833c0c6a22435.patch.1’ saved [3869/3869]
+
